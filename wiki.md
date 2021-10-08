@@ -1,16 +1,16 @@
-# **Coffee**
+# **<span style="font-family:'Apple Chancery';font-size: 2em;">Coffee</span>**
 
 ![](https://images.theconversation.com/files/254313/original/file-20190117-32825-1mio4p5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop)
 
 
 
-## **First Use** 
+## **<span style="font-family:'Apple Chancery';font-size: 1.2em;">First Use</span>** 
 
 Ancestors of today's Oromo people in a region of Oromia in Ethiopia were the first to cultivate coffee plant and recognise the energising effect of the coffee, says [Wikipedia](https://en.wikipedia.org/wiki/History_of_coffee). It is believed that coffee was first mentioned in 15th century in the Sufi monasteries in Yemen. It then spread in the Middle East, South India, Persia, other African countries, and then reached Europe and Asia. 
 
 
 
-## How People Drink Coffee Around the World
+## **<span style="font-family:'Apple Chancery';font-size: 1.2em;">How People Drink Coffee Around the World</span>**
 
 ![](https://brewminate.com/wp-content/uploads/2019/01/012319-02-History-Coffee.jpg)
 
@@ -50,7 +50,7 @@ Ancestors of today's Oromo people in a region of Oromia in Ethiopia were the fir
 
 
 
-## **Benefits of Coffee**
+## **<span style="font-family:'Apple Chancery';font-size: 1.2em;">Benefits of Coffee</span>**
 
 > Recently published findings suggest coffee consumption may provide a beneficial effect on kidney function, thereby reducing the risk for developing chronic kidney disease. 
 
